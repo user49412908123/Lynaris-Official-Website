@@ -1,0 +1,101 @@
+.early-access-section {
+  padding: 150px 40px;
+  background-color: #030709;
+  color: #fafafa;
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+}
+
+.h1 {
+  font-size: 47px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.h2 {
+  font-size: 18px;
+  margin-bottom: 30px;
+  padding-top: 35px;
+  text-align: center;
+}
+
+.intro-text {
+  font-size: 14px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  padding-top: 50px;
+  text-align: center;
+}
+
+.intro-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 20px;
+  text-align: left;
+}
+
+.intro-list li {
+  margin-bottom: 10px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="number"] {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ffffff36;
+  border-radius: 20px;
+  background-color: #0d191c;
+  color: #fafafa;
+}
+
+.radio-group {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.radio-group input {
+  margin-right: 10px;
+}
+
+.trust-message {
+  font-size: 14px;
+  color: #d6d6d6;
+  margin-bottom: 20px;
+}
+
+.cta-button {
+  background-color: #06d756;
+  color: #fff;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.cta-button:hover {
+  background-color: #04b94a;
+}
+
+.confirmation-message {
+  font-size: 16px;
+  color: #06d756;
+  text-align: center;
+}
